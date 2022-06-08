@@ -19,7 +19,7 @@ names.shift
 ops.insert(0, 109)
 abs.delete_at(4)
 
-names
-abs
-ops
-rhanded
+puts names
+puts abs
+puts ops
+puts rhanded
