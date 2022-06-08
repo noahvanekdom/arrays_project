@@ -7,7 +7,7 @@ rhanded = [false, true, false, false]
 rhanded.pop
 # this will add the value 131 as the 5th element in the abs array
 abs.push(131)
-# this will retrieve/print/show the first element in the ops array, so 109, then remove it
+# this will retrieve/print/show the first element in the ops array, so 0.784, then remove it
 ops.shift
 #this will add the name Keibert Ruiz to the names array in the first position -- names(0)
 names.unshift("Keibert Ruiz")
