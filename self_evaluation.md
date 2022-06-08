@@ -5,7 +5,3 @@ Is there any additional learning you need or want to do before moving to the nex
 What questions do you have about Arrays?
 **I know there are like, arrays of variables, but could you make an array of arrays? I'll look into it.**
 Commit your work.
-How confident do you feel with the content on Arrays so far?
-Is there any additional learning you need or want to do before moving to the next lesson?
-What questions do you have about Arrays?
-Commit your work.
