@@ -16,7 +16,7 @@ names.unshift("Keibert Ruiz")
 
 rhanded.insert(3, false)
 names.shift
-ops.insert(0, 109)
+ops.insert(0, 0.784)
 abs.delete_at(4)
 
 puts names
