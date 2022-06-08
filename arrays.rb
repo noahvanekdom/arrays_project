@@ -23,3 +23,6 @@ puts names
 puts abs
 puts ops
 puts rhanded
+# now to play around with some new functions -- this should remove the final 2 false elements from the right handed array
+rhanded.unique
+puts rhanded
